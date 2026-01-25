@@ -1,7 +1,3 @@
-Here is a **100% ready-to-copy-paste README.md**.
-Just paste this directly into your `README.md` file — no changes needed.
-
-```md
 # 🔵 BlueGuard AI
 
 BlueGuard AI is an AI-powered web application focused on enhancing digital security through intelligent monitoring and threat analysis. Built with modern web technologies, it delivers a scalable, secure, and user-friendly experience.

@@ -1,0 +1,34 @@
+/* File: components/UploadImage.css */
+.image-container {
+  position: relative;
+  display: inline-block;
+  margin-top: 20px;
+  max-width: 90vw;
+}
+
+.image-container img {
+  max-width: 100%;
+  height: auto;
+}
+
+.bounding-box {
+  position: absolute;
+  border: 2px solid #1eff00;
+  box-sizing: border-box;
+}
+
+.bounding-box .label {
+  position: absolute;
+  top: -20px;
+  left: 0;
+  background-color: #1eff00;
+  color: black;
+  padding: 2px 5px;
+  font-size: 12px;
+  white-space: nowrap;
+}
+
+.error-message {
+  color: red;
+  margin-top: 10px;
+}
